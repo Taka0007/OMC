@@ -6,4 +6,5 @@ for a in range(1,61):
             if (a<=b) and (b>=c):
                 ans += 1
 
+# output
 print(ans)
